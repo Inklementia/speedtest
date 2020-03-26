@@ -1,2 +1,10 @@
-# speedtest
-A small project on javascript for checking your typing speed 
+# Speedtest
+A small app on JavaScript for checking your typing speed 
+## About the project
+I have created small javascript applicaion, which allows you to check your typing speed as soon as you enter the first letter of a sample text into the field.
+## Buit with 
+Written on JavaScript and can be opened in any browser
+## What did I learn?
+I learned to work with intervals and timer
+### Acknowledgements
+Thanks to Lynda.com and its JavaScript Essential Training 2017
